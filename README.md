@@ -2,6 +2,7 @@
 ## Organizer: Arun Das
 ## Affiliation: University of Pittsburgh
 > Workshop #1: [BHI 2023 Spatial Transcriptomics Tutorial](https://bhi.embs.org/2023/program/tutorials/)
+
 > Workshop #2: [CRC Bioinformatics Workshop Spring 2024](https://crc.pitt.edu/training-workshops/bioinformatics-workshops)
 
 ## Abstract:
