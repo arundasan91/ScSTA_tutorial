@@ -3,7 +3,9 @@
 ## Affiliation: University of Pittsburgh
 > Workshop #1: [BHI 2023 Spatial Transcriptomics Tutorial](https://bhi.embs.org/2023/program/tutorials/)
 
-> Workshop #2: [CRC Bioinformatics Workshop Spring 2024](https://crc.pitt.edu/training-workshops/bioinformatics-workshops)
+> Workshop #2: Pitt CRC Bioinformatics Workshop Spring 2024
+
+> Workshop #3: Pitt CRC Spatial Transcriptomics Workshop Fall 2024
 
 ## Abstract:
 This tutorial aims to provide attendees with comprehensive knowledge and hands-on experience in the data analysis of sub-cellular resolution single-cell spatial transcriptomics (ScST) technologies such as Nanostring CosMx and 10X Genomics Xenium. ScST is a cutting-edge technology that profiles single-cell transcriptomics with spatial information of cells/transcripts in intact tissues. While it enables researchers to understand gene expression patterns in the context of tissue structure and disease pathology, it poses unique challenges in data analysis. This tutorial will cover each step of the analysis workflow and showcase typical use cases. It intends to accelerate the adoption of spatial single-cell transcriptomics analysis and foster breakthroughs in our understanding of complex biological systems.
